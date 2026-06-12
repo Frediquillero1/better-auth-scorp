@@ -27,7 +27,7 @@ export default function Header() {
 						/>
 					</div>
 				</Link>
-				<ModeToggle />
+				{/* <ModeToggle /> */}
 				<ModeSwitcher />
 			</div>
 		</header>
